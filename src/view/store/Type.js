@@ -1,0 +1,1 @@
+export const RECEIVE_HELLO = '@view/RECEIVE_HELLO';

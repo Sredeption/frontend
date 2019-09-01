@@ -1,0 +1,24 @@
+.logo {
+  padding: 25px 0 20px 0;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+
+  img {
+    width: 42px;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+  }
+
+  span {
+    color: rgba(0, 0, 0, 0.8);
+    margin-left: 45px;
+    vertical-align: text-bottom;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+
+}
+
